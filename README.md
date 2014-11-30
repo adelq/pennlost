@@ -1,6 +1,8 @@
 PennLost
 ========
 
+[![Build Status](https://travis-ci.org/adelq/pennlost.svg)](https://travis-ci.org/adelq/pennlost)
+
 Public platform for Lost and Founds at the University of Pennsylvania
 
 Technology
