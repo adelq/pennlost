@@ -1,4 +1,6 @@
 Pennlost::Application.routes.draw do
+  resources :users
+
   resources :items
 
   get "static/home"
