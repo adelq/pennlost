@@ -1,4 +1,5 @@
 class ItemsController < ApplicationController
+  protect_from_forgery
   before_action :set_item, only: [:show, :edit, :update, :destroy]
 
   # GET /items
